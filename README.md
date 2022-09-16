@@ -8,5 +8,4 @@
 ![Nuxt](https://img.shields.io/badge/-Nuxt-252427?style=for-the-badge&logo=Nuxt.js)
 
 ### My social
-
 [![Telegram](https://img.shields.io/badge/-Telegram-252427?style=for-the-badge&logo=Telegram)](https://t.me/pazmenni_rezak)
