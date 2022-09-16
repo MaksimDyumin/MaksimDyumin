@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, im Maxim Dyumin
 
-<!--
-**MaksimDyumin/Maksimdyumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
+![JS](https://img.shields.io/badge/-JavaScript-252427?style=for-the-badge&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML5-252427?style=for-the-badge&logo=HTML5)
+![Css](https://img.shields.io/badge/-CSS3-252427?style=for-the-badge&logo=CSS3)
+![Vue](https://img.shields.io/badge/-VueJs-252427?style=for-the-badge&logo=Vue.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt-252427?style=for-the-badge&logo=Nuxt.js)
 
-Here are some ideas to get you started:
+### my social
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/-Telegram-252427?style=for-the-badge&logo=Telegram)](https://t.me/pazmenni_rezak)
+
